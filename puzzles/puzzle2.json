@@ -1,0 +1,96 @@
+{
+  "id": "customPuzzle",
+  "title": "Ramayana - 2",
+  "rows": 14,
+  "cols": 21,
+  "words": [
+    {
+      "id": 1,
+      "word": "KUMBHAKARNA",
+      "clue": "The younger brother of Ravana, known for immense appetite",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "SHABARI",
+      "clue": "The devoted tribal woman who offered tasted berries to Rama",
+      "direction": "horizontal",
+      "row": 9,
+      "col": 10
+    },
+    {
+      "id": 3,
+      "word": "PANCHAVATI",
+      "clue": "The forest region where Shurpanakha encountered Rama",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 10
+    },
+    {
+      "id": 4,
+      "word": "KAIKEYI",
+      "clue": "The queen who demanded Rama’s exile",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 10
+    },
+    {
+      "id": 5,
+      "word": "PATTABHISHEKA",
+      "clue": "The coronation ceremony of Rama after returning to Ayodhya",
+      "direction": "vertical",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "id": 6,
+      "word": "FOURTEEN",
+      "clue": "The exile period of Rama, lasting this many years",
+      "direction": "vertical",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "id": 7,
+      "word": "DIWALI",
+      "clue": "The festival celebrating Rama’s return to Ayodhya",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 13
+    },
+    {
+      "id": 8,
+      "word": "MALYAVAN",
+      "clue": "Loyal minister of Ravana who opposed the war",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 12
+    },
+    {
+      "id": 9,
+      "word": "KISHKINDHA",
+      "clue": "The kingdom ruled by Sugriva after death of Vali",
+      "direction": "horizontal",
+      "row": 12,
+      "col": 9
+    },
+    {
+      "id": 10,
+      "word": "VISHWAMITRA",
+      "clue": "The sage whose hermitage was protected by Rama from demons",
+      "direction": "vertical",
+      "row": 2,
+      "col": 18
+    },
+    {
+      "id": 11,
+      "word": "PUTRAKAMESHTI",
+      "clue": "The ritual performed by Dasharatha to beget sons",
+      "direction": "vertical",
+      "row": 0,
+      "col": 10
+    }
+  ]
+}

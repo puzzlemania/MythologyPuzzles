@@ -1,0 +1,8 @@
+{
+  "puzzles": [
+    "./puzzles/puzzle1.json",
+    "./puzzles/puzzle2.json",
+    "./puzzles/puzzle3.json",
+    "./puzzles/puzzle4.json"
+  ]
+}

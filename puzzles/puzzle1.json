@@ -1,0 +1,96 @@
+{
+  "id": "customPuzzle",
+  "title": "Ramayana - 1",
+  "rows": 11,
+  "cols": 23,
+  "words": [
+    {
+      "id": 1,
+      "word": "BRAHMASTRA",
+      "clue": "The weapon used by Rama to slay Ravana",
+      "direction": "vertical",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "id": 2,
+      "word": "VALMIKI",
+      "clue": "The sage who composed the Ramayana",
+      "direction": "horizontal",
+      "row": 9,
+      "col": 7
+    },
+    {
+      "id": 3,
+      "word": "DRONAGIRI",
+      "clue": "The mountain Hanuman lifted when he couldn’t identify the herb",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "id": 4,
+      "word": "SANJEEVANI",
+      "clue": "The divine herb Hanuman carried by lifting an entire mountain",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 12
+    },
+    {
+      "id": 5,
+      "word": "SHURPANAKHA",
+      "clue": "The rakshasi who tried to marry Rama and was disfigured",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "id": 6,
+      "word": "VIBHISHANA",
+      "clue": "Ravana’s scholarly brother who chose righteousness over family",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 10
+    },
+    {
+      "id": 7,
+      "word": "MARICHA",
+      "clue": "Demon who disguised himself as a golden deer",
+      "direction": "vertical",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "id": 8,
+      "word": "JATAYU",
+      "clue": "The bird who tried to rescue Sita and was mortally wounded",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 9,
+      "word": "DANDAKA",
+      "clue": "The forest where Rama spent much of his exile",
+      "direction": "vertical",
+      "row": 1,
+      "col": 19
+    },
+    {
+      "id": 10,
+      "word": "SIMHIKA",
+      "clue": "The rakshasi who captured shadows to devour her prey",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "id": 11,
+      "word": "SURASA",
+      "clue": "The serpent mother encountered by Hanuman during his leap",
+      "direction": "vertical",
+      "row": 0,
+      "col": 17
+    }
+  ]
+}
