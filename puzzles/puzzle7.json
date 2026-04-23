@@ -1,0 +1,104 @@
+{
+  "id": "customPuzzle",
+  "title": "Krishna in Mahabharata",
+  "rows": 14,
+  "cols": 23,
+  "words": [
+    {
+      "id": 1,
+      "word": "SUDARSHANA",
+      "clue": "Krishna’s divine discus weapon",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "id": 2,
+      "word": "DURYODHANA",
+      "clue": "The warrior Krishna offered his army to instead of himself",
+      "direction": "horizontal",
+      "row": 0,
+      "col": 11
+    },
+    {
+      "id": 3,
+      "word": "YADAVA",
+      "clue": "The clan Krishna belonged to",
+      "direction": "vertical",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "id": 4,
+      "word": "PANDAVA",
+      "clue": "The side Krishna supported without wielding weapons",
+      "direction": "vertical",
+      "row": 2,
+      "col": 18
+    },
+    {
+      "id": 5,
+      "word": "SUBHADRA",
+      "clue": "Krishna’s sister, married to Arjuna",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "DHRITARASHTRA",
+      "clue": "The blind king whom Krishna tried to persuade",
+      "direction": "vertical",
+      "row": 0,
+      "col": 11
+    },
+    {
+      "id": 7,
+      "word": "JARASANDHA",
+      "clue": "The king slain by Bhima with Krishna’s guidance",
+      "direction": "horizontal",
+      "row": 11,
+      "col": 9
+    },
+    {
+      "id": 8,
+      "word": "SHISHUPALA",
+      "clue": "The king finally killed by Krishna with the Sudarshana Chakra after exceeding 100 insults during the Rajasuya Yajna",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 9
+    },
+    {
+      "id": 9,
+      "word": "KURUKSHETRA",
+      "clue": "The battlefield where Krishna guided Arjuna",
+      "direction": "horizontal",
+      "row": 9,
+      "col": 5
+    },
+    {
+      "id": 10,
+      "word": "DWARKA",
+      "clue": "The capital city ruled by Krishna",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 16
+    },
+    {
+      "id": 11,
+      "word": "MATHURA",
+      "clue": "Krishna left which kingdom to protect his people from repeated attacks by Jarasandha",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 5
+    },
+    {
+      "id": 12,
+      "word": "SATYAKI",
+      "clue": "Krishna’s close ally and warrior on the Pandava side belonging to the Vrishni clan",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 14
+    }
+  ]
+}

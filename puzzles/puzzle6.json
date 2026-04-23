@@ -1,0 +1,128 @@
+{
+  "id": "customPuzzle",
+  "title": "Krishna's Childhood",
+  "rows": 14,
+  "cols": 25,
+  "words": [
+    {
+      "id": 1,
+      "word": "TRINAVARTA",
+      "clue": "The whirlwind demon who carried Krishna into the sky",
+      "direction": "vertical",
+      "row": 3,
+      "col": 23
+    },
+    {
+      "id": 2,
+      "word": "PUTANA",
+      "clue": "The demoness who tried to poison Krishna as a baby",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 17
+    },
+    {
+      "id": 3,
+      "word": "BAKASURA",
+      "clue": "The crane-like demon slain by Krishna",
+      "direction": "vertical",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "id": 4,
+      "word": "KALIYA",
+      "clue": "The serpent subdued in the Yamuna",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 11
+    },
+    {
+      "id": 5,
+      "word": "SHAKATASURA",
+      "clue": "The cart demon destroyed by a kick from the infant Krishna",
+      "direction": "vertical",
+      "row": 0,
+      "col": 20
+    },
+    {
+      "id": 6,
+      "word": "DAMODARA",
+      "clue": "The name Krishna earned after being tied to a mortar",
+      "direction": "horizontal",
+      "row": 10,
+      "col": 6
+    },
+    {
+      "id": 7,
+      "word": "MANIGRIVA",
+      "clue": "The celestial beings freed from trees by Lord Krishna are Nalakuvara and  ? ",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 9
+    },
+    {
+      "id": 8,
+      "word": "BALARAMA",
+      "clue": "Krishna’s elder brother known for strength",
+      "direction": "horizontal",
+      "row": 9,
+      "col": 16
+    },
+    {
+      "id": 9,
+      "word": "PANCHAJANYA",
+      "clue": "The conch demon killed by Krishna",
+      "direction": "vertical",
+      "row": 2,
+      "col": 17
+    },
+    {
+      "id": 10,
+      "word": "ARISHTASURA",
+      "clue": "The bull demon sent by Kamsa, slain by Krishna",
+      "direction": "vertical",
+      "row": 1,
+      "col": 12
+    },
+    {
+      "id": 11,
+      "word": "KESHI",
+      "clue": "The horse demon defeated by Krishna in Vrindavan",
+      "direction": "vertical",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "id": 12,
+      "word": "AGHASURA",
+      "clue": "The python-like demon who tried to swallow Krishna and his friends",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "id": 13,
+      "word": "DEVAKI",
+      "clue": "Name of Krishna's biological mother",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "id": 14,
+      "word": "MATHURA",
+      "clue": "In which city Krishna killed Kansa?",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 9
+    },
+    {
+      "id": 15,
+      "word": "VASUDEVA",
+      "clue": "Name of krishnas biological father",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 5
+    }
+  ]
+}

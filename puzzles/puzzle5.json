@@ -1,0 +1,120 @@
+{
+  "id": "customPuzzle",
+  "title": "Samudra Manthan",
+  "rows": 14,
+  "cols": 28,
+  "words": [
+    {
+      "id": 1,
+      "word": "AMRITA",
+      "clue": "Nectar of immortality sought by gods and demons",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 2,
+      "word": "HALAHALA",
+      "clue": "Deadly poison consumed by Lord Shiva",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "id": 3,
+      "word": "LAKSHMI",
+      "clue": "Goddess of wealth who chose Lord Vishnu after emerging",
+      "direction": "vertical",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "id": 4,
+      "word": "DHANVANTARI",
+      "clue": "Divine physician who appeared with the nectar",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 9
+    },
+    {
+      "id": 5,
+      "word": "VARUNI",
+      "clue": "Goddess associated with wine who emerged from the ocean",
+      "direction": "vertical",
+      "row": 3,
+      "col": 19
+    },
+    {
+      "id": 6,
+      "word": "KAUSTUBHA",
+      "clue": "Divine jewel later worn by Lord Vishnu",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 9
+    },
+    {
+      "id": 7,
+      "word": "KALPAVRIKSHA",
+      "clue": "Wish-fulfilling celestial tree",
+      "direction": "vertical",
+      "row": 0,
+      "col": 21
+    },
+    {
+      "id": 8,
+      "word": "PARIJATA",
+      "clue": "Fragrant divine flower/tree associated with heaven",
+      "direction": "vertical",
+      "row": 5,
+      "col": 7
+    },
+    {
+      "id": 9,
+      "word": "AIRAVATA",
+      "clue": "White elephant that became Indra’s mount",
+      "direction": "vertical",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "id": 10,
+      "word": "KAMADHENU",
+      "clue": "Wish-granting cow of abundance",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 18
+    },
+    {
+      "id": 11,
+      "word": "UCHCHAISHRAVAS",
+      "clue": "Celestial horse that emerged from the churning",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 11
+    },
+    {
+      "id": 12,
+      "word": "SHARANGA",
+      "clue": "The divine bow associated with Lord Vishnu",
+      "direction": "vertical",
+      "row": 3,
+      "col": 12
+    },
+    {
+      "id": 13,
+      "word": "APSARAS",
+      "clue": "Celestial dancers born from the churning",
+      "direction": "vertical",
+      "row": 5,
+      "col": 14
+    },
+    {
+      "id": 14,
+      "word": "PANCHAJANYA",
+      "clue": "The conch that emerged",
+      "direction": "horizontal",
+      "row": 5,
+      "col": 7
+    }
+  ]
+}
