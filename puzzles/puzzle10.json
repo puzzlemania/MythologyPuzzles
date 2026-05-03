@@ -1,0 +1,120 @@
+{
+  "id": "customPuzzle",
+  "title": "Lord Ganesha",
+  "rows": 17,
+  "cols": 20,
+  "words": [
+    {
+      "id": 1,
+      "word": "PARVATI",
+      "clue": "The goddess who fashioned Ganesha from her own body",
+      "direction": "vertical",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "id": 2,
+      "word": "KARTIKEYA",
+      "clue": "Elder brother of Ganesha, commander of the celestial army",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "id": 3,
+      "word": "KAILASA",
+      "clue": "The mountain abode of Ganesha’s family",
+      "direction": "vertical",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "id": 4,
+      "word": "MANGO",
+      "clue": "Fruit won by Ganesha after circling his parents instead of the world",
+      "direction": "horizontal",
+      "row": 10,
+      "col": 0
+    },
+    {
+      "id": 5,
+      "word": "GAJAMUKHASURA",
+      "clue": "Elephant-faced demon defeated and transformed into Ganesha’s mount",
+      "direction": "vertical",
+      "row": 3,
+      "col": 9
+    },
+    {
+      "id": 6,
+      "word": "SINDURASURA",
+      "clue": "Vermilion-hued demon slain by Ganesha in a fierce avatar",
+      "direction": "vertical",
+      "row": 1,
+      "col": 11
+    },
+    {
+      "id": 7,
+      "word": "MATSARASURA",
+      "clue": "Demon of jealousy destroyed by Ganesha’s Vakratunda incarnation",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 8
+    },
+    {
+      "id": 8,
+      "word": "KRODHASURA",
+      "clue": "Demon of anger subdued by Ganesha’s Lambodara form",
+      "direction": "vertical",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "id": 9,
+      "word": "GANAPATYA",
+      "clue": "Ganapati worshippers as a sect are collectively called ___",
+      "direction": "horizontal",
+      "row": 3,
+      "col": 9
+    },
+    {
+      "id": 10,
+      "word": "MODAKA",
+      "clue": "Sweet dumpling considered Ganesha’s favorite offering",
+      "direction": "horizontal",
+      "row": 12,
+      "col": 13
+    },
+    {
+      "id": 11,
+      "word": "MAHABHARATA",
+      "clue": "The scripture written by Ganesha as Vyasa dictated",
+      "direction": "vertical",
+      "row": 0,
+      "col": 14
+    },
+    {
+      "id": 12,
+      "word": "BALLAL",
+      "clue": "Child devotee for whom Ganesha is believed to have manifested at Pali",
+      "direction": "vertical",
+      "row": 8,
+      "col": 18
+    },
+    {
+      "id": 13,
+      "word": "DHUMRAVARNA",
+      "clue": "Eighth principal avatar of Lord Ganesha",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 6
+    },
+    {
+      "id": 14,
+      "word": "EKADANTA",
+      "clue": "Second principal avatar of Lord Ganesha",
+      "direction": "vertical",
+      "row": 5,
+      "col": 16
+    }
+  ]
+}

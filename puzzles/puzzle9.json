@@ -1,0 +1,120 @@
+{
+  "id": "customPuzzle",
+  "title": "Goddess Saraswati",
+  "rows": 11,
+  "cols": 19,
+  "words": [
+    {
+      "id": 1,
+      "word": "VANI",
+      "clue": "Another name of Saraswati meaning “speech”",
+      "direction": "horizontal",
+      "row": 8,
+      "col": 9
+    },
+    {
+      "id": 2,
+      "word": "BHARATI",
+      "clue": "Epithet of Saraswati meaning - giver of eloquence",
+      "direction": "vertical",
+      "row": 2,
+      "col": 12
+    },
+    {
+      "id": 3,
+      "word": "SARASWATI",
+      "clue": "The radiant white-clad goddess of wisdom",
+      "direction": "vertical",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "id": 4,
+      "word": "SHARADA",
+      "clue": "The goddess invoked before learning begins",
+      "direction": "vertical",
+      "row": 0,
+      "col": 17
+    },
+    {
+      "id": 5,
+      "word": "VEENA",
+      "clue": "Stringed instrument held by Saraswati",
+      "direction": "vertical",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "id": 6,
+      "word": "VEDA",
+      "clue": "The book carried by the goddess of learning",
+      "direction": "horizontal",
+      "row": 6,
+      "col": 9
+    },
+    {
+      "id": 7,
+      "word": "AKSHAMALA",
+      "clue": "The rosary held by Saraswati",
+      "direction": "horizontal",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "id": 8,
+      "word": "LOTUS",
+      "clue": "The white flower often offered to Saraswati",
+      "direction": "vertical",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "id": 9,
+      "word": "HAMSA",
+      "clue": "Bird that serves as Saraswati’s vehicle",
+      "direction": "horizontal",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "id": 10,
+      "word": "BRAHMA",
+      "clue": "Creator god often paired with Saraswati",
+      "direction": "horizontal",
+      "row": 2,
+      "col": 12
+    },
+    {
+      "id": 11,
+      "word": "VIDYA",
+      "clue": "Sanskrit term for refined knowledge personified by Saraswati",
+      "direction": "vertical",
+      "row": 0,
+      "col": 10
+    },
+    {
+      "id": 12,
+      "word": "SHASTRA",
+      "clue": "The discipline over which Saraswati presides",
+      "direction": "vertical",
+      "row": 0,
+      "col": 14
+    },
+    {
+      "id": 13,
+      "word": "KALIDASA",
+      "clue": "Legendary Sanskrit poet said to be blessed by Saraswati’s grace",
+      "direction": "horizontal",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "id": 14,
+      "word": "SERFOJI",
+      "clue": "Maratha ruler remembered as a true devotee and patron of Goddess Saraswati through his love of books, arts, and learning",
+      "direction": "horizontal",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

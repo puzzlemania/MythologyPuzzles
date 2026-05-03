@@ -7,6 +7,8 @@
     "./puzzles/puzzle5.json",
     "./puzzles/puzzle6.json",
     "./puzzles/puzzle7.json",
-    "./puzzles/puzzle8.json"
+    "./puzzles/puzzle8.json",
+    "./puzzles/puzzle9.json",
+    "./puzzles/puzzle10.json"
   ]
 }
